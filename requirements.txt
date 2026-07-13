@@ -10,3 +10,4 @@ keras_tuner
 opencv-python
 keras
 streamlit
+tensorboard
