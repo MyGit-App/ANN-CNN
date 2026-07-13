@@ -7,7 +7,6 @@ scikit-learn
 scipy
 tensorflow
 keras_tuner
-TensorBoard
 opencv-python
 keras
 streamlit
