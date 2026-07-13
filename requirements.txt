@@ -5,7 +5,7 @@ Matplotlib
 seaborn
 scikit-learn
 scipy
-tensorFlow
+tensorflow
 keras_tuner
 TensorBoard
 opencv-python
